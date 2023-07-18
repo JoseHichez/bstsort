@@ -1,3 +1,7 @@
+//Jose Hichez
+//PID 6186740
+//"I affirm that I wrote this program myself without any help from any other people or sources from the internet."
+
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
